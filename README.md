@@ -8,7 +8,7 @@
 ## 📫 Reach out:
 - 📧 Email: [basel.youssef47@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/baselyoussef901/]
-- Instagram: [https://www.instagram.com/basel_youssef_/]
+- 📱  Instagram: [https://www.instagram.com/basel_youssef_/]
 ✨✨✨ Feel free to contact me any time! ✨✨✨
 
 ## Interests:
@@ -23,7 +23,7 @@
 - 🖥️ Computer Graphics
 - 🎮 Game Programming/Development
 - 🌐 AR/VR/MR/XR
-- 3D Modeling/Animation
+- 💭 3D Modeling/Animation
 Check out my repositories and feel free to leave your feedback.
 
 ## Languages and Tools:
