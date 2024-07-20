@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![source](https://github.com/user-attachments/assets/7f296056-8c66-4d95-b930-3cedcaf1fe69)
+![R](https://github.com/user-attachments/assets/ceedccde-38d1-4d2e-b2da-34b0d4130163)
 
 ## About Me:
 
