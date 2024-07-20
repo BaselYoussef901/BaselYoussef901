@@ -7,7 +7,9 @@ About Me:
 📫 How to reach me:
 
 📧 Email: [basel.youssef47@gmail.com]
+
 💼 LinkedIn: [https://www.linkedin.com/in/baselyoussef901/]
+
 Instagram: [https://www.instagram.com/basel_youssef_/]
 ✨✨✨ Feel free to contact me any time! ✨✨✨
 
