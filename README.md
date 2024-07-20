@@ -5,7 +5,7 @@
 - 💬 Ask me about any of my repositories and I will happily explain anything.
 - ⚡ I love do some activities as modeling and animating beside of designing and creating creative things.
 
-## 📫 How to reach me:
+## 📫 Reach out:
 - 📧 Email: [basel.youssef47@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/baselyoussef901/]
 - Instagram: [https://www.instagram.com/basel_youssef_/]
