@@ -2,20 +2,21 @@
 
 ![R](https://github.com/user-attachments/assets/ceedccde-38d1-4d2e-b2da-34b0d4130163)
 
-## About Me:
+### Who am i?:
 
-- 🤔 I’m always seeking opportunities to learn more, gain experience and develop my skills.
-- 💬 Ask me about any of my repositories and I will happily explain anything.
-- ⚡ I love do some activities as modeling and animating beside of designing and creating creative things.
+I am a Data Scientist with a keen interest in Computer Vision, Machine Learning, and Artificial Intelligence. These fields have always captivated me, and I am constantly seeking opportunities to expand my knowledge. My next step is to delve into the exciting world of Generative AI. Beyond my core role, I am passionate about application development and actively pursue this as a side hustle.
 
-## 📫 Reach out:
+### What i do?
+- Application Development (Flutter - Dart)
+- 3D Modeling and Animating (Blender)
+- AI Projects and Tools (Python)
+
+### 📫 Reach out:
 - 📧 Email: [basel.youssef47@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/baselyoussef901/]
 - 📱  Instagram: [https://www.instagram.com/basel_youssef_/]
 
-✨✨✨ Feel free to contact me any time! ✨✨✨
-
-## Interests:
+### Interests:
 
 - 💡 Artificial Intelligence
 - 🤖 Machine Learning
@@ -28,8 +29,6 @@
 - 🎮 Game Programming/Development
 - 🌐 AR/VR/MR/XR
 - 💭 3D Modeling/Animation
-
-Check out my repositories and feel free to leave your feedback.
 
 ## Languages and Tools:
 Python C++ Java C# JS SQL Blender XML Dart Kotlin
