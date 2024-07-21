@@ -31,3 +31,6 @@ I am a Data Scientist with a keen interest in Computer Vision, Machine Learning,
 
 ## Languages and Tools:
 Python C++ Java C# JS SQL Blender XML Dart Kotlin
+
+# Concepts
+Problem Solver, OOP, Data Structure & Algorithms, Design Patterns & SOLID Principles, Database, Operating Systems, Pattern Recognition, Machine & Deep Learning
