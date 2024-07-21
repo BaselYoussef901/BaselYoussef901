@@ -1,6 +1,5 @@
 # Hi there 👋
-
-![R](https://github.com/user-attachments/assets/ceedccde-38d1-4d2e-b2da-34b0d4130163)
+![5927911](https://github.com/user-attachments/assets/3456274b-5e39-4514-a287-6068909a236a)
 
 ### Who am i?:
 
